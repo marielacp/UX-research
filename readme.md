@@ -98,16 +98,16 @@ Problema
         ![Inicio](images/usuarios-finales.png)
 
    * Conclusiones de entrevistas
-         a) Entrevistas de contexto
-         b) Entrevistas presenciales
-         c) Encuesta online
+         a. Entrevistas de contexto
+         b. Entrevistas presenciales
+         c. Encuesta online
    * Perfiles de usuarios
 
-2- Revisión de Data ya existente 
+2- Revisión de Data ya existente.
   2.1- revisión de literatura del proceso ( normativa )
   2.2- revisión de data existente ( foros, comunidades)
   2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,     
-       investigaciones)
+       investigaciones).
 
 ##### Proceso de Elaboración de Entrevista y Encuesta
 
