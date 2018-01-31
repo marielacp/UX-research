@@ -48,42 +48,42 @@ Entregable:
 
 Conclusiones:
 
-# ++Proceso UX Research ++
+# Proceso UX Research 
 
-###Objetivo general:
+### Objetivo general:
 
 Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modificar segun avance)
 
-###Objetivo inicial (Lunes 29/01/18)
+### Objetivo inicial (Lunes 29/01/18)
  *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
 ####Planificación de actividades (Fase de descubrimiento)
 
-==```5:00 pm ```==  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+```5:00 pm ```  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
-==```5:15pm```==   Affinity Map (Brainstorming)
+```5:15pm```   Affinity Map (Brainstorming)
 
-==```5:20 pm ```== Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
+```5:20 pm ``` Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
 
-==```5:35 pm ```==  Affinity Map (Brainstorming).
+```5:35 pm ```  Affinity Map (Brainstorming).
 
 ==```5:40 pm```== Retrospectiva.
 
-==```5:50 pm```== Planteamiento de metodologías UX Research en base al objetivo inicial:
+```5:50 pm``` Planteamiento de metodologías UX Research en base al objetivo inicial:
 
-- [ ]     Trabajo de campo / entrevistas a usuarios.
-- [ ]    Encuestas online.
-- [ ]    Entrevistas a un experto.
+-[ ]     Trabajo de campo / entrevistas a usuarios.
+-[ ]    Encuestas online.
+-[ ]    Entrevistas a un experto.
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
-==```6:00 pm```==  Formulación de preguntas para las entrevistas personales y encuestas virtuales
+```6:00 pm```  Formulación de preguntas para las entrevistas personales y encuestas virtuales
 
 *colgar imagen de la encuesta
 
-==```7:50 pm```==  Retrospectiva
+```7:50 pm```  Retrospectiva
 
-==```8:00 pm```==  Finalización de formulario de preguntas y encuestas virtuales.
+```8:00 pm```  Finalización de formulario de preguntas y encuestas virtuales.
 
 1. 	   Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
 2.     División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
@@ -92,24 +92,24 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
      - Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
      - Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
-==```8:30 pm```==  Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
+```8:30 pm```  Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
 
-==```9:00 pm```==  Retrospectiva
-
-
-####Procedimiento de actividades para el dia martes 30/01/18
+```9:00 pm```  Retrospectiva
 
 
-==```8:00 am```== Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo
+#### Procedimiento de actividades para el dia martes 30/01/18
 
-==```8:20 am```==  Etapa de observación del ambiente y como se comporta el usuario en este
 
-==```10:00 am```==  Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado
+```8:00 am``` Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo
 
-==```11:30 am```==  Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta).
+```8:20 am```  Etapa de observación del ambiente y como se comporta el usuario en este
+
+```10:00 am```  Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado
+
+```11:30 am```  Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta).
 	*adjuntar imagen de correo
 
-==```12:00 ```== Retrospectivas de las actividades realizadas:
+```12:00 ``` Retrospectivas de las actividades realizadas:
 ######  Grupo terminal Javier Prado -  28 de Julio
 -
 
@@ -120,14 +120,14 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 -  Preparar  material a usar en las entrevistas: copias, incentivos
 -  Documentación audiovisual
 
-==```2:30pm```==   Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
+```2:30pm```   Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
 
-==```3:00 pm```==   Creacion de espacios de documentacion (Github ,Google Docs y Google Drive)
-==```3:10 pm```==   Compilación de la data recolectada en las entrevistas presenciales
-==```5:00 pm```==   Análisis e interpretación de la información recabada
-==```6:00 pm```==   Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial)
+```3:00 pm```   Creacion de espacios de documentacion (Github ,Google Docs y Google Drive)
+```3:10 pm```   Compilación de la data recolectada en las entrevistas presenciales
+```5:00 pm```   Análisis e interpretación de la información recabada
+```6:00 pm```   Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial)
 
-####Conclusiones primarias
+#### Conclusiones primarias
 
 1.  Se encontró distintos tipos de viajeros:
 
