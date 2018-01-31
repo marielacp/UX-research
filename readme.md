@@ -1,14 +1,15 @@
 # SQUAD: GeekDesign
-===================
 
-# INTEGRANTES:  
+- - -
+
+### INTEGRANTES:  
 - Anaís
 - Silvia
 - Mariela
 - Victoria
 - Quiñones Jauregui, Yenny Elizabeth - yenny.quinones.jauregui@gmail.com
 
-# RETO : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+## RETO : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
 Luego de vivir todo esto, Catalina está pensando en emprender en este sector. Para ello ha contratado a tu squad para que la ayude a investigar más sobre los usuarios de este tipo de transportes y para que definan y prueben un MVP.
@@ -42,67 +43,112 @@ Entregable:
 - Estructura Proceso Ux Research realizado 
 
 Conclusiones:
- 
 
-## Proceso UX Research
+# ++Proceso UX Research ++
 
-##Objetivo general:
+###Objetivo general:
 
 Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modificar segun avance)
 
-##Objetivo inicial (Lunes 29/01/18)
+###Objetivo inicial (Lunes 29/01/18)
+ *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
-Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.
+####Planificación de actividades (Fase de descubrimiento)
 
-→ Planificación de actividades (Fase de descubrimiento)
+==```5:00 pm ```==  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
-5:00 pm   brainstorming: experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+==```5:15pm```==   Affinity Map (Brainstorming)
 
-5:15pm   Affinity Map (Brainstorming)
+==```5:20 pm ```== Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
 
-5:20 pm  Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
+==```5:35 pm ```==  Affinity Map (Brainstorming).
 
-5:35 pm  Affinity Map (Brainstorming).
+==```5:40 pm```== Retrospectiva.
 
-5:40 pm Retrospectiva.
+==```5:50 pm```== Planteamiento de metodologías UX Research en base al objetivo inicial:
 
-5:50 pm Planteamiento de metodologías UX Research en base al objetivo inicial:
-
-    a.- Trabajo de campo / entrevistas a usuarios.
-    b.- Encuestas online.
-    c.- Entrevistas a un experto.
+- [ ]     Trabajo de campo / entrevistas a usuarios.
+- [ ]    Encuestas online.
+- [ ]    Entrevistas a un experto.
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
-6:00 pm Formulación de preguntas para las entrevistas personales y encuestas virtuales
+==```6:00 pm```==  Formulación de preguntas para las entrevistas personales y encuestas virtuales
 
 *colgar imagen de la encuesta 
 
-7:50 pm Retrospectiva
+==```7:50 pm```==  Retrospectiva
 
-8:00 pm Finalización de formulario de preguntas y encuestas virtuales.
+==```8:00 pm```==  Finalización de formulario de preguntas y encuestas virtuales.
 
-	  I.- Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales 
-  terrestres)
-    II.- División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)	
+1. 	   Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
+2.     División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
 
-      II.1 Inicio de trabajo:8:00 am.
-          Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
-          Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
+   - Inicio de trabajo:8:00 am.
+     - Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
+     - Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
-8:30 pm Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado 
+==```8:30 pm```==  Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
 
-9:00 pm Retrospectiva
-
-
-##Procedimiento de actividades para el dia martes 30/01/18
+==```9:00 pm```==  Retrospectiva
 
 
-### Plan Research 
+####Procedimiento de actividades para el dia martes 30/01/18
+
+
+==```8:00 am```== Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo
+
+==```8:20 am```==  Etapa de observación del ambiente y como se comporta el usuario en este
+
+==```10:00 am```==  Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado
+
+==```11:30 am```==  Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta).
+	*adjuntar imagen de correo
+
+==```12:00 ```== Retrospectivas de las actividades realizadas:
+######  Grupo terminal Javier Prado -  28 de Julio
+- 
+
+
+######  Grupo terminal Plaza Lima-Norte
+-  Investigar sobre los requerimientos para realizar encuestas en los terminales de bus
+- Replantear que  preguntas se establecen con opciones múltiples y cuales con espacio para responder.
+-  Preparar  material a usar en las entrevistas: copias, incentivos
+-  Documentación audiovisual
+
+==```2:30pm```==   Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
+
+==```3:00 pm```==   Creacion de espacios de documentacion (Github ,Google Docs y Google Drive)
+==```3:10 pm```==   Compilación de la data recolectada en las entrevistas presenciales
+==```5:00 pm```==   Análisis e interpretación de la información recabada 
+==```6:00 pm```==   Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial)
+
+####Conclusiones primarias
+
+1.  Se encontró distintos tipos de viajeros:
+
+ - Viajeros economicos
+ - Viajeros premium
+ - Viajeros laborales
+ - Viajeros frecuentes
+ - Viajeros poco frecuentes
+ - Viajeros por motivos familiares
+ - Viajeros de emergencia
+
+2. El usuario es consciente de las condiciones que cubre un pasaje económico vs pasaje premium.
+
+3. El usuario valora que las empresas cumplan con los servicios ofrecidos al momento de realizar la compra del pasaje Y/o de buscar información en la su web.
+4. El usuario espera que la empresas sean congruentes con las condiciones de servicios  ofrecidas de acuerdo al precio del pasaje, y que esto se cumpla con mayor responsabilidad en situaciones de alza de precios por temporadas altas.
+5. Para un grupo de usuarios, importa mucho que los precios de los pasajes se mantengan fijos ante cualquier temporada
+6. Las necesidades del usuario van de acuerdo a los diferentes rangos de edad.
+7. Apuntar observaciones de lenguaje corporal
+
+
+### Plan Research
 - Iteración Nro 1 ("Fase de Descubrimiento")
 
 1. Objetivos:
-   - Identificar patrones 
+   - Identificar patrones
 2. Hipótesis
     - "La mejora de la experiencia de usuarios de transporte de viaje en bus con aplicación de tecnología intuitiva"
 3. Métodos.
@@ -110,10 +156,10 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 4. Técnicas:
     - Observación
     - Comprensión ( Modelo Mental )
-    - Análisis 
+    - Análisis
 5. Conducta
 6. Sintetizar
-7. Feedback 
+7. Feedback
 8. Retrospectiva
 
 #### Recopilación y Sintesis de Datos en la "Fase de Descubrimiento"
