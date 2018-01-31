@@ -17,11 +17,9 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ## Organización de Equipo
 Objetivos:
-- Trabajo en Equipo
-- Aprendizaje conjunto
-- Roles iguales
-- Colaboración
-- Mejora continua 
+- Trabajo en Equipo.
+- Aprendizaje conjunto.
+- Mejora continua.
 
 Actividades:
 - Lluvia de ideas para abordar problema de reto
