@@ -55,7 +55,7 @@ Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modifi
 ### Objetivo inicial (Lunes 29/01/18)
  *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
-#### Planificación de actividades (Fase de descubrimiento)
+### Planificación de actividades (Fase de descubrimiento)
 
 ```5:00 pm ```  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
@@ -83,12 +83,11 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ```8:00 pm```  Finalización de formulario de preguntas y encuestas virtuales.
 
-1.     Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
-
-2.     División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
-   - Inicio de trabajo:8:00 am.
-     - Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
-     - Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
+ 1. Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
+ 2. División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
+     - Inicio de trabajo:8:00 am.
+     * Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
+     * Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
 ```8:30 pm```  Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
 
