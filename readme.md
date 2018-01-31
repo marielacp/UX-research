@@ -1,7 +1,5 @@
 # SQUAD: GeekDesign
 
-- - -
-
 ### INTEGRANTES:
 - Anaís
 - Silvia
@@ -57,7 +55,7 @@ Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modifi
 ### Objetivo inicial (Lunes 29/01/18)
  *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
-####Planificación de actividades (Fase de descubrimiento)
+#### Planificación de actividades (Fase de descubrimiento)
 
 ```5:00 pm ```  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
@@ -67,13 +65,13 @@ Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modifi
 
 ```5:35 pm ```  Affinity Map (Brainstorming).
 
-==```5:40 pm```== Retrospectiva.
+```5:40 pm``` Retrospectiva.
 
 ```5:50 pm``` Planteamiento de metodologías UX Research en base al objetivo inicial:
 
--[ ]     Trabajo de campo / entrevistas a usuarios.
--[ ]    Encuestas online.
--[ ]    Entrevistas a un experto.
+- [ ]     Trabajo de campo / entrevistas a usuarios.
+- [ ]    Encuestas online.
+- [ ]    Entrevistas a un experto.
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
@@ -85,9 +83,9 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ```8:00 pm```  Finalización de formulario de preguntas y encuestas virtuales.
 
-1. 	   Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
-2.     División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
+1.     Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
 
+2.     División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
    - Inicio de trabajo:8:00 am.
      - Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
      - Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
