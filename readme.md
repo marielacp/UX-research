@@ -27,7 +27,7 @@ Actividades:
 - Definición de Plan de Investigación "Fase de Descubrimiento"
 - Elaboración de Preguntas para Entrevista y Encuesta
 - Elaboración de Cronograma de actividades
-- Feedback 
+- Feedback
 - Retrospectiva
 
 Herramientas:
@@ -36,27 +36,27 @@ Herramientas:
 - Grabadora de sonido
 - Fotos
 - Formularios Google
-- Slack, WatsApp, Facebook, Search Google
+- Slack, WhatsApp, Facebook, Search Google
 
 Entregable:
-- Estructura Proceso Ux Research realizado 
+- Estructura Proceso Ux Research realizado
 
 Conclusiones:
- 
+
 
 ## Proceso UX Research
 
-##Objetivo general:
+## Objetivo general:
 
-Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modificar segun avance)
+Atender las necesidades de Catalina...según lms.laboratoria.(sección por modificar segun avance).
 
-##Objetivo inicial (Lunes 29/01/18)
+## Objetivo inicial (Lunes 29/01/18)
 
-Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.
+Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial, nacional o internacional.
 
 → Planificación de actividades (Fase de descubrimiento)
 
-5:00 pm   brainstorming: experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+5:00 pm   Brainstorming: experiencias personales de las integrantes del squad como usuarias de una agencia de bus interprovincial, nacional o internacional.
 
 5:15pm   Affinity Map (Brainstorming)
 
@@ -72,37 +72,37 @@ Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial
     b.- Encuestas online.
     c.- Entrevistas a un experto.
 
-Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
+Mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
 6:00 pm Formulación de preguntas para las entrevistas personales y encuestas virtuales
 
-*colgar imagen de la encuesta 
+<!-- colgar imagen de la encuesta -->
 
 7:50 pm Retrospectiva
 
 8:00 pm Finalización de formulario de preguntas y encuestas virtuales.
 
-	  I.- Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales 
+	  I.- Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales
   terrestres)
-    II.- División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)	
+    II.- División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
 
       II.1 Inicio de trabajo:8:00 am.
           Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
           Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
-8:30 pm Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado 
+8:30 pm Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
 
 9:00 pm Retrospectiva
 
 
-##Procedimiento de actividades para el dia martes 30/01/18
+## Procedimiento de actividades para el dia martes 30/01/18
 
 
-### Plan Research 
+### Plan Research
 - Iteración Nro 1 ("Fase de Descubrimiento")
 
 1. Objetivos:
-   - Identificar patrones 
+   - Identificar patrones
 2. Hipótesis
     - "La mejora de la experiencia de usuarios de transporte de viaje en bus con aplicación de tecnología intuitiva"
 3. Métodos.
@@ -110,22 +110,22 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 4. Técnicas:
     - Observación
     - Comprensión ( Modelo Mental )
-    - Análisis 
+    - Análisis
 5. Conducta
 6. Sintetizar
-7. Feedback 
+7. Feedback
 8. Retrospectiva
 
 #### Recopilación y Sintesis de Datos en la "Fase de Descubrimiento"
 
 1- Método : Estudio en campo
  1.1- Objetivos
-   - Identificación del contexto 
+   - Identificación del contexto
    - Identificación de Partes Interesadas
    - Identificación de Usuarios Finales insitu real.
 
- 1.2- Research Cualitativo - Entrevistas a Usuarios 
-   * Entrevistas de contexto 
+ 1.2- Research Cualitativo - Entrevistas a Usuarios
+   * Entrevistas de contexto
    * Entrevistas presenciales
    * Encuesta online
 
@@ -136,12 +136,12 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
    * Identificación de Partes Interesadas ( Diagrama de Stakeholders )
         ![Inicio](images/diagrama-stakeholders.png)
 
-   * Identificación de Usuarios Finales insitu real: 
+   * Identificación de Usuarios Finales insitu real:
         - Necesidades y Objetivos
         - uso de las instalaciones
         - comportamiento
         - conocimiento
-        - experiencia 
+        - experiencia
         - preocupaciones
         ![Inicio](images/usuarios-finales.png)
 
