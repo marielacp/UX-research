@@ -2,7 +2,7 @@
 
 - - -
 
-### INTEGRANTES:  
+### INTEGRANTES:
 - Anaís
 - Silvia
 - Mariela
@@ -18,17 +18,21 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ## Organización de Equipo
 Objetivos:
-- Trabajo en Equipo.
-- Aprendizaje conjunto.
-- Mejora continua.
+- Trabajo en Equipo
+- Aprendizaje conjunto
+- Roles iguales
+- Colaboración
+- Mejora continua
 
 Actividades:
 - Lluvia de ideas para abordar problema de reto
 - Identificación de Ejes temáticos del problema
+  Para lo cual se muestra el siguiente cuadro resumen:
+ ![Inicio](assets/images/resumen-brainstorming-initial.png)
 - Definición de Plan de Investigación "Fase de Descubrimiento"
 - Elaboración de Preguntas para Entrevista y Encuesta
 - Elaboración de Cronograma de actividades
-- Feedback 
+- Feedback
 - Retrospectiva
 
 Herramientas:
@@ -40,7 +44,7 @@ Herramientas:
 - Slack, WatsApp, Facebook, Search Google
 
 Entregable:
-- Estructura Proceso Ux Research realizado 
+- Estructura Proceso Ux Research realizado
 
 Conclusiones:
 
@@ -75,7 +79,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ==```6:00 pm```==  Formulación de preguntas para las entrevistas personales y encuestas virtuales
 
-*colgar imagen de la encuesta 
+*colgar imagen de la encuesta
 
 ==```7:50 pm```==  Retrospectiva
 
@@ -107,7 +111,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ==```12:00 ```== Retrospectivas de las actividades realizadas:
 ######  Grupo terminal Javier Prado -  28 de Julio
-- 
+-
 
 
 ######  Grupo terminal Plaza Lima-Norte
@@ -120,7 +124,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ==```3:00 pm```==   Creacion de espacios de documentacion (Github ,Google Docs y Google Drive)
 ==```3:10 pm```==   Compilación de la data recolectada en las entrevistas presenciales
-==```5:00 pm```==   Análisis e interpretación de la información recabada 
+==```5:00 pm```==   Análisis e interpretación de la información recabada
 ==```6:00 pm```==   Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial)
 
 ####Conclusiones primarias
@@ -164,14 +168,14 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 #### Recopilación y Sintesis de Datos en la "Fase de Descubrimiento"
 
-1- Método : Estudio en campo
+1- Método : Estudio en campo.
  1.1- Objetivos
-   - Identificación del contexto 
+   - Identificación del contexto
    - Identificación de Partes Interesadas
    - Identificación de Usuarios Finales insitu real.
 
- 1.2- Research Cualitativo - Entrevistas a Usuarios 
-   * Entrevistas de contexto 
+ 1.2- Research Cualitativo - Entrevistas a Usuarios
+   * Entrevistas de contexto
    * Entrevistas presenciales
    * Encuesta online
 
@@ -182,12 +186,12 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
    * Identificación de Partes Interesadas ( Diagrama de Stakeholders )
         ![Inicio](images/diagrama-stakeholders.png)
 
-   * Identificación de Usuarios Finales insitu real: 
+   * Identificación de Usuarios Finales insitu real:
         - Necesidades y Objetivos
         - uso de las instalaciones
         - comportamiento
         - conocimiento
-        - experiencia 
+        - experiencia
         - preocupaciones
         ![Inicio](images/usuarios-finales.png)
 
@@ -200,9 +204,10 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 2- Revisión de Data ya existente.
   2.1- revisión de literatura del proceso ( normativa )
   2.2- revisión de data existente ( foros, comunidades)
-  2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,     
+  2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
        investigaciones).
 
 ##### Proceso de Elaboración de Entrevista y Encuesta
 
 ## Links de Referencia
+-
