@@ -54,15 +54,10 @@ Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modifi
 Hora           | Actividad 
 ---------------|----------------------------------------------------------------------------------------
 ```5:00 pm ``` | Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
-
-```5:15pm```   | Affinity Map (Brainstorming)
-
+```5:15pm```   | Affinity Map (Brainstorming).
 ```5:20 pm ``` | Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
-
 ```5:35 pm ``` | Affinity Map (Brainstorming).
-
 ```5:40 pm```  | Retrospectiva.
-
 ```5:50 pm```  | Planteamiento de metodologías UX Research en base al objetivo inicial:
 
 - [ ] Trabajo de campo / entrevistas a usuarios.
