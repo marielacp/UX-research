@@ -105,14 +105,14 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 ######  Grupo terminal Javier Prado -  28 de Julio
 - Investigar sobre normatividad y reglamentos de atención en empresas de transporte terrestre
   para mayor conocimiento del contexto.
-- Elaborar de diagrama de contexto por zonas de atención al cliente (espacio físico).
-- Elaborar de diagrama de contexto por formas de pago de cliente ( online y presencial).
-- Elaborar de diagrama de caso de uso por tipo de cliente según los resultados de entrevistas
-- Elaborar de grupo nro 2 de preguntas presenciales, priorizando con preguntas específicas según los
+- Elaborar diagrama de contexto por zonas de atención al cliente (espacio físico).
+- Elaborar diagrama de contexto por formas de pago de cliente ( online y presencial).
+- Elaborar diagrama de caso de uso por tipo de cliente según los resultados de entrevistas
+- Elaborar grupo nro 2 de preguntas presenciales, priorizando con preguntas específicas según los
   resultados de las entrevistas realizadas.
-- Elaborar de grupo nro 2 de encuesta online, priorizando con preguntas específicas según los
+- Elaborar grupo nro 2 de encuesta online, priorizando con preguntas específicas según los
   resultados de las encuestas online realizadas.
-  
+
 ```02:00 ``` Reunión para conclusiones.
 
 ######  Grupo terminal Plaza Lima-Norte
