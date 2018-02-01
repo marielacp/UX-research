@@ -41,11 +41,6 @@ Herramientas:
 - Formularios Google
 - Slack, WatsApp, Facebook, Search Google
 
-Entregable:
-- Estructura Proceso Ux Research realizado
-
-Conclusiones:
-
 # Proceso UX Research 
 
 ### Objetivo general:
@@ -108,18 +103,27 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 
 ```12:00 ``` Retrospectivas de las actividades realizadas:
 ######  Grupo terminal Javier Prado -  28 de Julio
--
-
+- Investigación sobre normatividad y reglamentos de atención en empresas de transporte terrestre
+  para mayor conocimiento del contexto.
+- Elaboración de diagrama de contexto por zonas de atención al cliente (espacio físico).
+- Elaboración de diagrama de contexto por formas de pago de cliente ( online y presencial).
+- Elaboración de diagrama de caso de uso por tipo de cliente según los resultados de entrevistas
+- Elaboración de grupo nro 2 de preguntas presenciales, priorizando con preguntas específicas según los
+  resultados de las entrevistas realizadas.
+- Elaboración de grupo nro 2 de encuesta online, priorizando con preguntas específicas según los
+  resultados de las encuestas online realizadas.
+```02:00 ``` Reunión para conclusiones.
 
 ######  Grupo terminal Plaza Lima-Norte
 -  Investigar sobre los requerimientos para realizar encuestas en los terminales de bus
-- Replantear que  preguntas se establecen con opciones múltiples y cuales con espacio para responder.
+-  Replantear que  preguntas se establecen con opciones múltiples y cuales con espacio para responder.
 -  Preparar  material a usar en las entrevistas: copias, incentivos
 -  Documentación audiovisual
 
 ```2:30pm```   Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
 
-```3:00 pm```   Creacion de espacios de documentacion (Github ,Google Docs y Google Drive)
+######  Actividades comunes en Grupo
+```3:00 pm```   Creacion y actualización de espacios de documentacion (Github ,Google Docs y Google Drive)
 ```3:10 pm```   Compilación de la data recolectada en las entrevistas presenciales
 ```5:00 pm```   Análisis e interpretación de la información recabada
 ```6:00 pm```   Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial)
@@ -127,7 +131,6 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 #### Conclusiones primarias
 
 1.  Se encontró distintos tipos de viajeros:
-
  - Viajeros economicos
  - Viajeros premium
  - Viajeros laborales
@@ -135,6 +138,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
  - Viajeros poco frecuentes
  - Viajeros por motivos familiares
  - Viajeros de emergencia
+ - Viajeros por turismo
 
 2. El usuario es consciente de las condiciones que cubre un pasaje económico vs pasaje premium.
 
@@ -143,12 +147,32 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 5. Para un grupo de usuarios, importa mucho que los precios de los pasajes se mantengan fijos ante cualquier temporada
 6. Las necesidades del usuario van de acuerdo a los diferentes rangos de edad.
 7. Apuntar observaciones de lenguaje corporal
+8. Los usuarios cuando tienen rutas largas prefieren viajar durante la noche.
+9. El usuarios definen como buen servicio de viaje de bus lo siguientes aspectos:
+- Atención del personal.
+- Alimentación.
+- Limpieza
+- Comodidad
+- Seguridad
+- Precio
+- Entretenimiento
+- Puntualidad de horarios
+- Información
+- Servicios adicionales : zona de cargadores, zona wifi.
+- App
+- Manejo del chofer del transporte bus
+10. Según personal de atención de informes , los usuarios suelen no leer todas las especificaciones del 
+servicio, provocándoles expectativas de servicios no reales.
+11. Según la observación directa de las agencias visitadas no cuentan con medios audiovisuales que orienten
+a los usuarios.
+12. Según las consultas realizadas en los módulos de informes de las agencias visitadas, los precios que se
+encuentran publicados no son los precios actualizados, lo cual fue evidenciado cuando para absolver la pregunta tenían que revisar su aplicativo interno.
 
 
 ### Plan Research
-- Iteración Nro 1 ("Fase de Descubrimiento")
+- Fase Nro 1 ("Fase de Descubrimiento")
 
-1. Objetivos:
+1. Objetivos
    - Identificar patrones
 2. Hipótesis
     - "La mejora de la experiencia de usuarios de transporte de viaje en bus con aplicación de tecnología intuitiva"
