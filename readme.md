@@ -66,7 +66,7 @@ Hora             | Actividad
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
-       Hora      | Actividad 
+Hora             | Actividad 
 -----------------|----------------------------------------------------------------------------------------
 ```6:00 pm```    | Formulación de preguntas para las entrevistas personales y encuestas virtuales - *colgar imagen de la encuesta.
 ```7:50 pm```    | Retrospectiva.
@@ -78,15 +78,15 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
      * Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
      * Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
-       Hora      | Actividad 
+Hora             | Actividad 
 -----------------|----------------------------------------------------------------------------------------
-```8:30 pm```    | Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado
-```9:00 pm```    | Retrospectiva
+```8:30 pm```    | Realizacion de speech para entrevista y selección de tipo incentivo al entrevistado.
+```9:00 pm```    | Retrospectiva.
 
 
 #### Procedimiento de actividades para el dia martes 30/01/18
 
-       Hora      | Actividad 
+Hora             | Actividad 
 -----------------|----------------------------------------------------------------------------------------
 ```8:00 am```    | Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo.
 ```8:20 am```    | Etapa de observación del ambiente y como se comporta el usuario en este.
@@ -105,7 +105,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 - Elaborar grupo nro 2 de encuesta online, priorizando con preguntas específicas según los
   resultados de las encuestas online realizadas.
 
-      Hora       | Actividad
+Hora             | Actividad
 -----------------|----------------------------------------------------------------------------------------
 ```02:00 ```     | Reunión para conclusiones.
 
@@ -115,13 +115,13 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 -  Preparar  material a usar en las entrevistas: copias, incentivos
 -  Documentación audiovisual
 
-      Hora       | Actividad
+Hora             | Actividad
 -----------------|----------------------------------------------------------------------------------------
 ```2:30pm```     |Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
 
 ######  Actividades comunes en Grupo
 
-      Hora       | Actividad
+Hora             | Actividad
 -----------------|----------------------------------------------------------------------------------------
 ```3:00 pm```    | Creacion y actualización de espacios de documentacion (Github ,Google Docs y Google Drive)
 ```3:10 pm```    | Compilación de la data recolectada en las entrevistas presenciales
