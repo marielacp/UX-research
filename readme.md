@@ -164,8 +164,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 - Manejo del chofer del transporte bus
 10. Según el personal de atención de informes , los usuarios suelen no leer todas las especificaciones del 
 servicio, provocándoles expectativas de servicios no reales.
-11. Según la observación directa de las agencias visitadas no cuentan con medios audiovisuales que orienten
-a los usuarios.
+11. Según la observación directa de las agencias visitadas no cuentan con los medios audiovisuales necesarios que orienten a los usuarios.
 12. Según las consultas realizadas en los módulos de informes de las agencias visitadas, los precios que se
 encuentran publicados no son los precios actualizados, lo cual fue evidenciado cuando para absolver la pregunta tenían que revisar su aplicativo interno.
 
