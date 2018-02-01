@@ -51,22 +51,23 @@ Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modifi
  *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
 ### Planificación de actividades (Fase de descubrimiento)
+Hora           | Actividad 
+---------------|----------------------------------------------------------------------------------------
+```5:00 pm ``` | Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
-```5:00 pm ```  Brainstorming de las experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+```5:15pm```   | Affinity Map (Brainstorming)
 
-```5:15pm```   Affinity Map (Brainstorming)
+```5:20 pm ``` | Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
 
-```5:20 pm ``` Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
+```5:35 pm ``` | Affinity Map (Brainstorming).
 
-```5:35 pm ```  Affinity Map (Brainstorming).
+```5:40 pm```  | Retrospectiva.
 
-```5:40 pm``` Retrospectiva.
+```5:50 pm```  | Planteamiento de metodologías UX Research en base al objetivo inicial:
 
-```5:50 pm``` Planteamiento de metodologías UX Research en base al objetivo inicial:
-
-- [ ]     Trabajo de campo / entrevistas a usuarios.
-- [ ]    Encuestas online.
-- [ ]    Entrevistas a un experto.
+- [ ] Trabajo de campo / entrevistas a usuarios.
+- [ ] Encuestas online.
+- [ ] Entrevistas a un experto.
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
