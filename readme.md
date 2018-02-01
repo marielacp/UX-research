@@ -24,9 +24,7 @@ Objetivos:
 
 Actividades:
 - Lluvia de ideas para abordar problema de reto
-- Identificación de Ejes temáticos del problema
-  Para lo cual se muestra el siguiente cuadro resumen:
- ![Inicio](assets/images/resumen-brainstorming-initial.png)
+- Identificación de Ejes temáticos del problema utilizando diagrama de afinidad.
 - Definición de Plan de Investigación "Fase de Descubrimiento"
 - Elaboración de Preguntas para Entrevista y Encuesta
 - Elaboración de Cronograma de actividades
@@ -59,11 +57,7 @@ Hora             | Actividad
     5:20 pm      | Brainstorming: Posibles soluciones a la problemática en base a experiencias personales.
     5:35 pm      | Affinity Map (Brainstorming).
     5:40 pm      | Retrospectiva.
-    5:50 pm      | Planteamiento de metodologías UX Research en base al objetivo inicial: 
-
-- [ ] Trabajo de campo / entrevistas a usuarios.
-- [ ] Encuestas online.
-- [ ] Entrevistas a un experto.
+    5:50 pm      | Planteamiento de metodologías UX Research en base al objetivo inicial: [ ] Trabajo de campo / entrevistas a usuarios. [ ] Encuestas online. [ ] Entrevistas a un experto.
 
 Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encuestas online se aborda de manera óptima la primera fase de descubrimiento .
 
