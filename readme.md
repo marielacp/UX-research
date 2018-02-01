@@ -148,7 +148,7 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 6. Las necesidades del usuario van de acuerdo a los diferentes rangos de edad.
 7. Apuntar observaciones de lenguaje corporal
 8. Los usuarios cuando tienen rutas largas prefieren viajar durante la noche.
-9. El usuarios definen como buen servicio de viaje de bus lo siguientes aspectos:
+9. El usuarios define como buen servicio de viaje de bus, lo siguientes aspectos:
 - Atención del personal.
 - Alimentación.
 - Limpieza
@@ -161,12 +161,13 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 - Servicios adicionales : zona de cargadores, zona wifi.
 - App
 - Manejo del chofer del transporte bus
-10. Según personal de atención de informes , los usuarios suelen no leer todas las especificaciones del 
+10. Según el personal de atención de informes , los usuarios suelen no leer todas las especificaciones del 
 servicio, provocándoles expectativas de servicios no reales.
 11. Según la observación directa de las agencias visitadas no cuentan con medios audiovisuales que orienten
 a los usuarios.
 12. Según las consultas realizadas en los módulos de informes de las agencias visitadas, los precios que se
 encuentran publicados no son los precios actualizados, lo cual fue evidenciado cuando para absolver la pregunta tenían que revisar su aplicativo interno.
+
 
 
 ### Plan Research
