@@ -83,16 +83,18 @@ Hora             | Actividad
    8:30 pm    | Realizacion de speech para entrevista.
    9:00 pm    | Retrospectiva.
 
+### DESARROLLO
+### DESCUBRIMIENTO E INVESTIGACIÒN.
 
 #### Procedimiento de actividades para el dia martes 30/01/18
 
 Hora             | Actividad 
 -----------------|----------------------------------------------------------------------------------------
-   8:00 am    | Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo.
-   8:20 am    | Etapa de observación del ambiente y como se comporta el usuario en este.
-   10:00 am   | Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado.
-   11:30 am   | Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta). *adjuntar imagen de correo - link.
-   12:00      | Retrospectivas de las actividades realizadas.
+   8:00 am       | Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo.
+   8:20 am       | Etapa de observación del ambiente y como se comporta el usuario en este.
+   10:00 am      | Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado.
+   11:30 am      | Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta). *adjuntar imagen de correo - link.
+   12:00         | Retrospectivas de las actividades realizadas.
 
 ######  Grupo terminal Javier Prado -  28 de Julio
 - Investigar sobre normatividad y reglamentos de atención en empresas de transporte terrestre
@@ -106,6 +108,21 @@ Hora             | Actividad
 Hora             | Actividad
 -----------------|----------------------------------------------------------------------------------------
    02:00         | Reunión para conclusiones.
+
+### Investigando GRUPO A En acciòn.
+#### PASO 1:
+- Tener a la mano preguntas de entrevistas, las preguntas son cualitativas abiertas, con la finalidad de conocer de forma mas detallada la experiencia de usuario.
+
+![Imagenes](assets/images/preguntas.png) 
+
+- Herramientas: Papel, Lapicero, celular.
+- Observar el contexto, nos proporciona una idea de como se desarrolla el dìa a dìa dentro de la empresa de transportes, ademàs se siente la molestia de los usuarios, por la espera al momento de su embarque, falta de asientos, colas al esperar informes, existen 3 cajas de atenciòn al cliente pero solo funcionaba una, y el calor, mientras que en la otra agencia estaba caso vacio.
+  1. Mediante este primer metodo que es la observaciòn, podemos concluir que ambas agencias tienen personal frecuente, cuyo motivo de eleccion de agencia varia entre seguridad y comodidad vs precio, ademàs del tiempo de antiguedad de cada una.
+
+![Imagenes](assets/images/contexto-jp.jpg) 
+
+![Imagenes](assets/images/contexto-jp.jpg) 
+
 
 ######  Grupo terminal Plaza Lima-Norte
 -  Investigar sobre los requerimientos para realizar encuestas en los terminales de bus
