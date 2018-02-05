@@ -16,7 +16,7 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ## Procedo de Diseño
 
-![Imagenes](assets/img/ux-guia.png) 
+![Imagenes](assets/images/ux-guia.png) 
 
 
 ## Organización de Equipo
