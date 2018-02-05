@@ -44,13 +44,13 @@ Herramientas:
 - Formularios Google
 - Slack, WatsApp, Facebook, Search Google
 
-# Proceso UX Research 
+# Proceso UX Research
 
 ### Objetivo general:
 
 Atender las necesidades de Catalina...según lms.laboratoria.(seccion por modificar segun avance)
 
-### Objetivo inicial (Lunes 29/01/18)
+### Objetivo inicial (Martes 30/01/18)
  *Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial.*
 
 ### Planificación de actividades (Fase de descubrimiento)
@@ -75,7 +75,7 @@ Hora             | Actividad
  1. Fijar y definir los espacios en donde se va realizar las entrevistas (Terminales terrestres)
  2. División en subgrupos para el trabajo de campo y horario de trabajo (grupo de 2 y 3 integrantes)
      - Inicio de trabajo:8:00 am.
-     * Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado y 28 de Julio).
+     * Gpo A: Anais, Mariela y Yenny (Terminal Javier Prado).
      * Gpo B: Victoria y Silvia (Terminal Plaza Lima-Norte).
 
 Hora             | Actividad 
@@ -85,110 +85,7 @@ Hora             | Actividad
 
 ### DESARROLLO
 ### DESCUBRIMIENTO E INVESTIGACIÒN.
-
-#### Procedimiento de actividades para el dia martes 30/01/18
-
-Hora             | Actividad 
------------------|----------------------------------------------------------------------------------------
-   8:00 am       | Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo.
-   8:20 am       | Etapa de observación del ambiente y como se comporta el usuario en este.
-   10:00 am      | Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado.
-   11:30 am      | Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta). *adjuntar imagen de correo - link.
-   12:00         | Retrospectivas de las actividades realizadas.
-
-######  Grupo terminal Javier Prado -  28 de Julio
-- Investigar sobre normatividad y reglamentos de atención en empresas de transporte terrestre
-  para mayor conocimiento del contexto.
-- Elaborar diagrama de contexto por zonas de atención al cliente (espacio físico).
-- Elaborar diagrama de contexto por formas de pago de cliente ( online y presencial).
-- Elaborar diagrama de caso de uso por tipo de cliente según los resultados de entrevistas
-- Elaborar 2do.grupo de preguntas presenciales, priorizando con preguntas específicas según los
-  resultados de las entrevistas realizadas.
-
-Hora             | Actividad
------------------|----------------------------------------------------------------------------------------
-   02:00         | Reunión para conclusiones.
-
-### Investigando GRUPO A En acciòn.
-#### PASO 1:
-- Tener a la mano preguntas de entrevistas, las preguntas son cualitativas abiertas, con la finalidad de conocer de forma mas detallada la experiencia de usuario.
-
-![Imagenes](assets/images/preguntas.png) 
-
-- Herramientas: Papel, Lapicero, celular.
-- Observar el contexto, nos proporciona una idea de como se desarrolla el dìa a dìa dentro de la empresa de transportes, ademàs se siente la molestia de los usuarios, por la espera al momento de su embarque, falta de asientos, colas al esperar informes, existen 3 cajas de atenciòn al cliente pero solo funcionaba una, y el calor, mientras que en la otra agencia estaba caso vacio.
-  1. Mediante este primer metodo que es la observaciòn, podemos concluir que ambas agencias tienen personal frecuente, cuyo motivo de eleccion de agencia varia entre seguridad y comodidad vs precio, ademàs del tiempo de antiguedad de cada una.
-
-![Imagenes](assets/images/cjp1.JPG) 
-
-![Imagenes](assets/images/cjp2.JPG) 
-
-![Imagenes](assets/images/JPFOTO.png) 
-
-
-######  Grupo terminal Plaza Lima-Norte
--  Investigar sobre los requerimientos para realizar encuestas en los terminales de bus
--  Replantear que  preguntas se establecen con opciones múltiples y cuales con espacio para responder.
--  Preparar  material a usar en las entrevistas: copias, incentivos
--  Documentación audiovisual
-
-Hora             | Actividad
------------------|----------------------------------------------------------------------------------------
-    2:30pm       |Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en                     |Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)
-
-######  Actividades comunes en Grupo
-
-Hora             | Actividad
------------------|----------------------------------------------------------------------------------------
-   3:00 pm       | Creacion y actualización de espacios de documentacion (Github ,Google Docs y Google Drive)
-   3:10 pm       | Compilación de la data recolectada en las entrevistas presenciales
-`  5:00 pm       | Análisis e interpretación de la información recabada
-   6:00 pm       | Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial).
-
-#### Conclusiones primarias
-
-1.  Se encontró distintos tipos de viajeros:
- - Viajeros economicos
- - Viajeros premium
- - Viajeros laborales
- - Viajeros frecuentes
- - Viajeros poco frecuentes
- - Viajeros por motivos familiares
- - Viajeros de emergencia
- - Viajeros por turismo
-
-2. El usuario es consciente de las condiciones que cubre un pasaje económico vs pasaje premium.
-
-3. El usuario valora que las empresas cumplan con los servicios ofrecidos al momento de realizar la compra del pasaje Y/o de buscar información en la su web.
-4. El usuario espera que la empresas sean congruentes con las condiciones de servicios  ofrecidas de acuerdo al precio del pasaje, y que esto se cumpla con mayor responsabilidad en situaciones de alza de precios por temporadas altas.
-5. Para un grupo de usuarios, importa mucho que los precios de los pasajes se mantengan fijos ante cualquier temporada
-6. Las necesidades del usuario van de acuerdo a los diferentes rangos de edad.
-7. Apuntar observaciones de lenguaje corporal
-8. Los usuarios cuando tienen rutas largas prefieren viajar durante la noche.
-9. El usuarios define como buen servicio de viaje de bus, lo siguientes aspectos:
-- Atención del personal.
-- Alimentación.
-- Limpieza
-- Comodidad
-- Seguridad
-- Precio
-- Entretenimiento
-- Puntualidad de horarios
-- Información
-- Servicios adicionales : zona de cargadores, zona wifi.
-- App
-- Manejo del chofer del transporte bus
-10. Según el personal de atención de informes , los usuarios suelen no leer todas las especificaciones del 
-servicio, provocándoles expectativas de servicios no reales.
-11. Según la observación directa de las agencias visitadas no cuentan con los medios audiovisuales necesarios que orienten a los usuarios.
-12. Según las consultas realizadas en los módulos de informes de las agencias visitadas, los precios que se
-encuentran publicados no son los precios actualizados, lo cual fue evidenciado cuando para absolver la pregunta tenían que revisar su aplicativo interno.
-
-
-
 ### Plan Research
-- Fase Nro 1 ("Fase de Descubrimiento")
-
 1. Objetivos
    - Identificar patrones
 2. Hipótesis
@@ -204,40 +101,124 @@ encuentran publicados no son los precios actualizados, lo cual fue evidenciado c
 7. Feedback
 8. Retrospectiva
 
-#### Recopilación y Sintesis de Datos en la "Fase de Descubrimiento"
+#### Procedimiento de actividades para el dia martes 30/01/18
 
-1- Método : Estudio en campo.
- 1.1- Objetivos
-   - Identificación del contexto
-   - Identificación de Partes Interesadas
-   - Identificación de Usuarios Finales insitu real.
+Hora             | Actividad 
+-----------------|----------------------------------------------------------------------------------------
+   8:00 am       | Inicio de trabajo de campo de acuerdo al lugar y grupo de trabajo.
+   8:20 am       | Etapa de observación del ambiente y como se comporta el usuario en este.
+   10:00 am      | Feedback (N°1) entre los integrantes del subgrupos respecto al desenvolvimiento con el entrevistado.
+   11:30 am      | Finalización de las entrevistas (Denegación de solicitud de  permiso para realizar encuesta). *adjuntar imagen de correo - link.
+   12:00         | Retrospectivas de las actividades realizadas.
 
- 1.2- Research Cualitativo - Entrevistas a Usuarios
-   * Entrevistas de contexto
-   * Entrevistas presenciales
-   * Encuesta online
+### Investigando GRUPO A (terminal Javier Prado) En acciòn.
 
- 1.3- Conclusiones de Entrevistas
-   * Identificación de Contexto ( cultural, uso )
-        ![Inicio](images/diagrama-contexto.png)
+#### PASO 1:
+- Tener a la mano preguntas de entrevistas, las preguntas son cualitativas abiertas, con la finalidad de conocer de forma mas detallada la experiencia de usuario.
 
-   * Identificación de Partes Interesadas ( Diagrama de Stakeholders )
-        ![Inicio](images/diagrama-stakeholders.png)
+![Imagenes](assets/images/preguntas.png) 
 
-   * Identificación de Usuarios Finales insitu real:
-        - Necesidades y Objetivos
-        - uso de las instalaciones
-        - comportamiento
-        - conocimiento
-        - experiencia
-        - preocupaciones
-        ![Inicio](images/usuarios-finales.png)
+#### PASO 2:
+- Herramientas: Papel, Lapicero, celular.
 
-   * Conclusiones de entrevistas
-         a. Entrevistas de contexto
-         b. Entrevistas presenciales
-         c. Encuesta online
-   * Perfiles de usuarios
+#### PASO 3:
+- Conocer la normatividad de la empresa de transportes
+- Observar el contexto, nos proporciona una idea de como se desarrolla el dìa a dìa dentro de la empresa de transportes, ademàs se siente la molestia de los usuarios, por la espera al momento de su embarque, falta de asientos, colas al esperar informes, existen 3 cajas de atenciòn al cliente pero solo funcionaba una, y el calor, mientras que en la otra agencia estaba caso vacio.
+  1. Mediante este primer metodo que es la observaciòn, podemos concluir que ambas agencias tienen personal frecuente, cuyo motivo de eleccion de agencia varia entre seguridad y comodidad vs precio, ademàs del tiempo de antiguedad de cada una.
+
+![Imagenes](assets/images/JPFOTOC.png) 
+
+![Imagenes](assets/images/JPFOTO.png) 
+
+#### PASO 4:
+- Resumen de plan de ACCIÒN-GRUPO A
+
+Hora                | Actividad
+-----------------   |----------------------------------------------------------------------------------------
+   08:30-11:05 a.m  | Entrevista agencia Cruz del Sur
+   11:20-12:05 a.m  | Entrevista agencia Exclusiva
+   12:20-01:00 p.m  | Entrevista agencia Movil Tours  
+   01:05-02:00 p.m  | Camino a lugar de reunion para realizar retrospectica, y analisis de las entrevistas.
+   02:05-03:30 p.m  | Break, y conclusiones acerca de la experiencia obtenida.
+   03:40-5:40  p.m  | En transporte.
+   07:00-11:00 p.m  | Cada una de las personas encargadas de las entrevistas, debe de pasar en limpio toda la informacion recolectada para su analisis a profundidad, lugar de concentraciòn de informaciòn GOOGLE DRIVE.
+
+#### PASO 5:
+- Conclusiones:
+![Imagenes](assets/images/concjp.png) 
+
+### Investigando GRUPO B (terminal Plaza Lima-Norte) En acciòn.
+
+#### PASO 1:
+- Tener a la mano preguntas de entrevistas, las preguntas son cualitativas abiertas, con la finalidad de conocer de forma mas detallada la experiencia de usuario, tener incentivos que motiven a los usuarios a contarnos sus experiencias.
+
+![Imagenes](assets/images/preguntas.png) 
+
+#### PASO 2:
+- Herramientas: Papel, Lapicero y celular.
+
+#### PASO 3:
+- Observar el contexto: En este caso el contexto es bastante variado, las oficinas de cada una de las agencias estan concentradas en un solo lugar, por lo que el usuario se siente libre de elegir donde mas se acomoda, cada usuario presenta diferentes preferencias, algunos definen que la seguridad es lo mas importante, otros la economia, los ambientes son bastante amplios, existen colas en horas punta donde los asientos son poco accesibles por lo que los usuarios deben de tirarse al piso hasta esperar la salida de su autobus.
+  1. Mediante este primer metodo que es la observaciòn, podemos concluir que la gran varidad de agencias conglomeradas en un solo lugar, y esto brinda al pasajero la facilidad de elecciòn segun su criterio.
+
+![Imagenes](assets/images/PNFOTOC.png) 
+
+#### PASO 4:
+- Resumen de plan de ACCIÒN-GRUPO B
+
+Hora                | Actividad
+-----------------   |----------------------------------------------------------------------------------------
+   08:30-12:30 a.m  | Entrevista terminal plazaNorte.   
+   12:45-02:15 p.m  | Analisis de las entrevistas y refrigerio.
+   02:30-04:00 p.m  |Entrevista a la experta Dra. Mariel Quea (Administradora de Empresas   Hosteleras y Licenciada en Educación,Magister en                      |Ecoturismo y Magister en Gestión Educativa. Ejecutiva en gestión y evaluación de calidad en empresas hoteleras y turísticas.)  
+   04:20-6:30 p.m   |Transporte.
+   07:00-11:00 p.m  |Cada una de las personas encargadas de las entrevistas, debe de pasar en limpio toda la informacion recolectada para su analisis a profundidad, lugar de concentraciòn de informaciòn GOOGLE DRIVE.
+
+#### PASO 5:
+- Conclusiones:
+![Imagenes](assets/images/conclpn.png) 
+
+### Analisis de resultados de encuentas via web, y foros.
+#### PASO 1:
+- Se revisa la data obtenida directo en google drive, se filtra y se genera el reporte para el analisis, en cuanto a los foros, se busca informaciòn en foros mediante la web, ademàs se encuenta a amigos y conocidos que no pueden acceder mediante la web pero nos pueden dar sus comentarios sobre su experiencia de viaje.
+
+![Imagenes](assets/images/foros.png) 
+
+#### PASO 2:
+-Conclusiones: Las conclusiones obtenidas, son similares a las obtenidas en las encuentras presenciales, existe un sinnumero de quejas, por seguridad, comidad, precios, mala atencion, alimentacion y muchas porque el chofer no descansa sus horas necesarias para emprender un viaje largo lo que termina en muchas ocasiones en accidentes.
+
+
+######  Actividades comunes en GRUPO-A y GRUPO-B 
+
+Hora             | Actividad (MARTES 30/01/2018)
+-----------------|----------------------------------------------------------------------------------------
+   8:00 pm       | Creacion y actualización de espacios de documentacion (Github ,Google Docs y Google Drive)
+   8:30 pm       | Compilación de la data recolectada en las entrevistas presenciales
+`  10:00 pm      | Análisis e interpretación de la información recabada
+   11:00 pm      | Investigación de otras fuentes de información (foros, reclamos de usuarios en las redes sociales de las agencias de bus interprovincial).
+
+#### Conclusiones Generales ambos grupos.
+
+![Imagenes](assets/images/CONCG.png) 
+
+#### Metodologia de analisis de proceso de descubrimiento.
+
+## Diagrama de afinidad.
+### PASO 1:
+- Lluvia de informaciòn deacuerdo a lo obtenido en las entrevistas.
+
+![Imagenes](assets/images/afinity-general.jpg)
+
+### PASO 2:
+- Analizamos y elegimos las posibles problematicas que mas predominan.
+
+![Imagenes](assets/images/afinity-final.jpg)
+
+## Siguiente paso, elaboramos nuestro user persona.
+
+## Siguiente paso, Prototipo.
+
+![Imagenes](assets/images/prototipo.png)
 
 2- Revisión de Data ya existente.
   2.1- revisión de literatura del proceso ( normativa )
