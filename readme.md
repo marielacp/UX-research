@@ -1,5 +1,5 @@
+# PROYECTO: EXPERIENCIA DE USUARIO CENTRAL DE AUTOBUSES
 # SQUAD: GeekDesign
-
 ### INTEGRANTES:
 - Anaís
 - Silvia
@@ -13,6 +13,11 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 Luego de vivir todo esto, Catalina está pensando en emprender en este sector. Para ello ha contratado a tu squad para que la ayude a investigar más sobre los usuarios de este tipo de transportes y para que definan y prueben un MVP.
 
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro."
+
+## Procedo de Diseño
+
+![Imagenes](assets/img/ux-guia.png) 
+
 
 ## Organización de Equipo
 Objetivos:
