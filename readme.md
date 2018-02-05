@@ -119,10 +119,15 @@ Hora             | Actividad
 - Observar el contexto, nos proporciona una idea de como se desarrolla el dìa a dìa dentro de la empresa de transportes, ademàs se siente la molestia de los usuarios, por la espera al momento de su embarque, falta de asientos, colas al esperar informes, existen 3 cajas de atenciòn al cliente pero solo funcionaba una, y el calor, mientras que en la otra agencia estaba caso vacio.
   1. Mediante este primer metodo que es la observaciòn, podemos concluir que ambas agencias tienen personal frecuente, cuyo motivo de eleccion de agencia varia entre seguridad y comodidad vs precio, ademàs del tiempo de antiguedad de cada una.
 
-![Imagenes](assets/images/contexto-jp.jpg) 
+![Imagenes](assets/images/context-jp.jpg) 
 
 ![Imagenes](assets/images/contexto-jp.jpg) 
 
+![Imagenes](assets/images/jp-1.jpg) 
+
+![Imagenes](assets/images/jp1.jpg) 
+
+![Imagenes](assets/images/jp2.jpg) 
 
 ######  Grupo terminal Plaza Lima-Norte
 -  Investigar sobre los requerimientos para realizar encuestas en los terminales de bus
