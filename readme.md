@@ -22,7 +22,7 @@ Objetivos:
 - Mejora continua.
 
 Actividades:
-- Lluvia de ideas para abordar problema de reto
+- Lluvia de ideas para abordar problema de reto (Brainstorming).
 - Identificación de Ejes temáticos del problema
 - Definición de Plan de Investigación "Fase de Descubrimiento"
 - Elaboración de Preguntas para Entrevista y Encuesta
@@ -32,7 +32,6 @@ Actividades:
 
 Herramientas:
 - Trello
-- Brainstorming
 - Grabadora de sonido
 - Fotos
 - Formularios Google
@@ -40,6 +39,7 @@ Herramientas:
 
 Entregable:
 - Estructura Proceso Ux Research realizado 
+- Content prototype
 
 Conclusiones:
  
@@ -56,7 +56,7 @@ Conocer la experiencia del usuario cuando usa una agencia de Bus interprovincial
 
 → Planificación de actividades (Fase de descubrimiento)
 
-5:00 pm   brainstorming: experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
+5:00 pm  Brainstorming: experiencias personales de la integrantes del squad como usuarias de una agencia de bus interprovincial.
 
 5:15pm   Affinity Map (Brainstorming)
 
@@ -102,9 +102,12 @@ Que mediante el trabajo de campo, entrevistas presenciales con el usuario y encu
 - Iteración Nro 1 ("Fase de Descubrimiento")
 
 1. Objetivos:
-   - Identificar patrones 
+   - Objetivo inicial:Identificar patrones 
+   - Objetivo final: Solución en base a la problemática encontrada "Falta de Capacitación del Personal de las empresas de transportes de bus".
+   
 2. Hipótesis
-    - "La mejora de la experiencia de usuarios de transporte de viaje en bus con aplicación de tecnología intuitiva"
+    - Hipótesis inicial:"La mejora de la experiencia de usuarios de transporte de viaje en bus con aplicación de tecnología intuitiva".
+    - Hipótesis final:"La falta de capacitacion del personal de las empresas de transporte produce que el usuario tenga poca información sobre su viaje, ocasionandole una pesima experiencia de viaje".
 3. Métodos.
    Estudio en Campo - Entrevistas
 4. Técnicas:
