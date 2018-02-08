@@ -247,7 +247,6 @@ Hora             | Actividad (MARTES 30/01/2018)
 ## Siguiente paso, elaboramos nuestro user persona.
 
 ## Siguiente paso, Prototipo.
->>>>>>> e93ecf3d95280787e12a16166ac80d69214922da
 
 ![Imagenes](assets/images/prototipo.png)
 
@@ -256,6 +255,12 @@ Hora             | Actividad (MARTES 30/01/2018)
   2.2- revisión de data existente ( foros, comunidades)
   2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
        investigaciones).
+
+## Siguiente paso, Storyboard.
+
+![Imagenes](assets/images/storyboard_1.jpg)
+![Imagenes](assets/images/storyboard_2.jpg)
+![Imagenes](assets/images/storyboard_3.jpg)
 
 ##### Proceso de Elaboración de Entrevista y Encuesta
 
