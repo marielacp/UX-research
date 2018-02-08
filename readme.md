@@ -245,9 +245,10 @@ Hora             | Actividad (MARTES 30/01/2018)
 ![Imagenes](assets/images/prototipo.png)
 
 2- Revisión de Data ya existente.
-  2.1- revisión de literatura del proceso ( normativa )
-  2.2- revisión de data existente ( foros, comunidades)
-  2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
+
+    2.1- revisión de literatura del proceso ( normativa )  
+    2.2- revisión de data existente ( foros, comunidades)  
+    2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
        investigaciones).
 
 ### NICE TO HAVE
