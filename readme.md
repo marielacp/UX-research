@@ -251,6 +251,17 @@ Hora             | Actividad (MARTES 30/01/2018)
     2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
        investigaciones).
 
+## Presentacion final
+![Imagenes](assets/images/presentacion_1.png)
+![Imagenes](assets/images/presentacion_2.png)
+![Imagenes](assets/images/presentacion_3.png)
+![Imagenes](assets/images/presentacion_4.png)
+![Imagenes](assets/images/presentacion_5.png)
+![Imagenes](assets/images/presentacion_6.png)
+![Imagenes](assets/images/presentacion_7.png)
+![Imagenes](assets/images/presentacion_8.png)
+![Imagenes](assets/images/presentacion_9.png)
+
 ### NICE TO HAVE
 ## Storyboard.
 
