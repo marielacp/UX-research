@@ -28,13 +28,8 @@ Objetivos:
 - Mejora continua
 
 Actividades:
-<<<<<<< HEAD
-- Lluvia de ideas para abordar problema de reto (Brainstorming).
-- Identificación de Ejes temáticos del problema
-=======
 - Lluvia de ideas para abordar problema de reto
 - Identificación de Ejes temáticos del problema utilizando diagrama de afinidad.
->>>>>>> e93ecf3d95280787e12a16166ac80d69214922da
 - Definición de Plan de Investigación "Fase de Descubrimiento"
 - Elaboración de Preguntas para Entrevista y Encuesta
 - Elaboración de Cronograma de actividades
@@ -48,13 +43,12 @@ Herramientas:
 - Formularios Google
 - Slack, WatsApp, Facebook, Search Google
 
-<<<<<<< HEAD
+
 Entregable:
 - Estructura Proceso Ux Research realizado 
 - Content prototype
-=======
+
 # Proceso UX Research
->>>>>>> e93ecf3d95280787e12a16166ac80d69214922da
 
 ### Objetivo general:
 
