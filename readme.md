@@ -269,7 +269,4 @@ Hora             | Actividad (MARTES 30/01/2018)
 ![Imagenes](assets/images/storyboard_2.jpg)
 ![Imagenes](assets/images/storyboard_3.jpg)
 
-##### Proceso de Elaboración de Entrevista y Encuesta
 
-## Links de Referencia
--
