@@ -240,7 +240,7 @@ Hora             | Actividad (MARTES 30/01/2018)
 
 ## Siguiente paso, elaboramos nuestro user persona.
 
-## Siguiente paso, Prototipo.
+## Siguiente paso, Content Prototype.
 
 ![Imagenes](assets/images/prototipo.png)
 
@@ -250,7 +250,8 @@ Hora             | Actividad (MARTES 30/01/2018)
   2.3- Research Cuantitativo: revisión de análisis existente ( conclusiones ya existentes, estudios,
        investigaciones).
 
-## Siguiente paso, Storyboard.
+### NICE TO HAVE
+## Storyboard.
 
 ![Imagenes](assets/images/storyboard_1.jpg)
 ![Imagenes](assets/images/storyboard_2.jpg)
